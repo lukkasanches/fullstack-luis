@@ -57,6 +57,11 @@ const usuarios = [
     id: 10,
     nome: "Sofia",
     nacionalidade: "Colombiana"
+  },
+  {
+    id: 11,
+    nome: "Luka",
+    nacionalidade: "Brasileiro"
   }
 ];
 
